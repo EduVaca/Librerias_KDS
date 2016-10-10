@@ -1,0 +1,32 @@
+/*
+ * Aplicacion.c
+ *
+ *  Created on: 09/10/2016
+ *      Author: eduda
+ */
+
+#include "Librerias.h"
+
+
+void Aplicacion (void)
+{
+	Term1_SendStr("Lectura del valor del ADC:\t");
+	Term1_SendNum(read());
+	Term1_CRLF();
+	Term1_SendStr("No ponga ningun  objeto sobre la balanza");
+	Term1_CRLF();
+	Term1_SendStr("Destarando...");
+	Term1_CRLF();
+	set_scale(1); //La escala por defecto es 1
+	tare(20);	//El peso actual es considerado Tara.
+	Term1_SendStr("Coloque un peso conocido:");
+	Term1_CRLF();
+
+	for(;;)
+	{
+		Term1_SendStr("Valor de lectura: \t");
+		Term1_SendFloatNum(get_value(10));
+		Term1_CRLF();
+
+	}
+}
