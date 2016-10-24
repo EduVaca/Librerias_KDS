@@ -16,5 +16,6 @@
 #include "TI1.h"
 #include "MPX5700.h"
 #include "AD1.h"
+#include "Ultrasonic.h"
 
 #endif /* SOURCES_LIBRERIAS_H_ */

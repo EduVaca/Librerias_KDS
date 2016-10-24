@@ -32,6 +32,8 @@
 - \subpage BitIoLdd2
 - \subpage TU1
 - \subpage TimerIntLdd1
+- \subpage TRIG
+- \subpage TU2
 
 */
 
@@ -70,6 +72,8 @@
 - \subpage BitIoLdd2
 - \subpage TU1
 - \subpage TimerIntLdd1
+- \subpage TRIG
+- \subpage TU2
 
 */
 
