@@ -56,16 +56,25 @@
       <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\AD1.c</PathName>
       <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\ASerialLdd1.c</PathName>
       <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\AdcLdd1.c</PathName>
+      <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\BLUE.c</PathName>
       <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\BitIoLdd1.c</PathName>
       <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\BitIoLdd2.c</PathName>
+      <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\BitIoLdd3.c</PathName>
+      <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\BitIoLdd4.c</PathName>
+      <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\BitIoLdd5.c</PathName>
       <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\Cpu.c</PathName>
       <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\DOUT.c</PathName>
+      <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\GREEN.c</PathName>
       <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\Inhr1.c</PathName>
       <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\KSDK1.c</PathName>
+      <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\LEDpin1.c</PathName>
+      <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\LEDpin2.c</PathName>
+      <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\LEDpin3.c</PathName>
       <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\PD_SCK.c</PathName>
       <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\PE_LDD.c</PathName>
       <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\Pins1.c</PathName>
       <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\PushButton.c</PathName>
+      <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\RED.c</PathName>
       <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\TI1.c</PathName>
       <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\TRIG.c</PathName>
       <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\TU1.c</PathName>
@@ -90,15 +99,23 @@
       <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\AD1.h</PathName>
       <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\ASerialLdd1.h</PathName>
       <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\AdcLdd1.h</PathName>
+      <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\BLUE.h</PathName>
       <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\BitIoLdd1.h</PathName>
       <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\BitIoLdd2.h</PathName>
+      <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\BitIoLdd3.h</PathName>
+      <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\BitIoLdd4.h</PathName>
+      <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\BitIoLdd5.h</PathName>
       <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\CPU_Config.h</PathName>
       <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\Cpu.h</PathName>
       <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\DOUT.h</PathName>
+      <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\GREEN.h</PathName>
       <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\IO_Map.h</PathName>
       <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\Inhr1.h</PathName>
       <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\Init_Config.h</PathName>
       <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\KSDK1.h</PathName>
+      <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\LEDpin1.h</PathName>
+      <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\LEDpin2.h</PathName>
+      <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\LEDpin3.h</PathName>
       <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\PD_SCK.h</PathName>
       <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\PE_Const.h</PathName>
       <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\PE_Error.h</PathName>
@@ -106,6 +123,7 @@
       <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\PE_Types.h</PathName>
       <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\Pins1.h</PathName>
       <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\PushButton.h</PathName>
+      <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\RED.h</PathName>
       <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\TI1.h</PathName>
       <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\TRIG.h</PathName>
       <PathName>C:\WorkSpaceGeneral\WorkSpaceKds\Librerias_KDS\K64F_HX711\Generated_Code\TU1.h</PathName>

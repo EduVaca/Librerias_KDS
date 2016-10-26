@@ -35,6 +35,9 @@
 - \subpage TRIG
 - \subpage TU2
 - \subpage PushButton
+- \subpage BitIoLdd3
+- \subpage BitIoLdd4
+- \subpage BitIoLdd5
 
 */
 
@@ -76,6 +79,9 @@
 - \subpage TRIG
 - \subpage TU2
 - \subpage PushButton
+- \subpage BitIoLdd3
+- \subpage BitIoLdd4
+- \subpage BitIoLdd5
 
 */
 

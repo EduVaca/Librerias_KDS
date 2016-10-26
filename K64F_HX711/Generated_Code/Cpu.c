@@ -8,7 +8,7 @@
 **     Repository  : Kinetis
 **     Datasheet   : K64P144M120SF5RM, Rev.2, January 2014
 **     Compiler    : GNU C Compiler
-**     Date/Time   : 2016-10-25, 00:10, # CodeGen: 20
+**     Date/Time   : 2016-10-26, 01:49, # CodeGen: 22
 **     Abstract    :
 **
 **     Settings    :
@@ -122,6 +122,18 @@ void Components_Init(void)
   /* Write code here ... */
   /* ### BitIO_LDD "PushButton" component auto initialization. Auto initialization feature can be disabled by component property "Auto initialization". */
   (void)PushButton_Init(NULL);
+  /* ### BitIO_LDD "BitIoLdd3" component auto initialization. Auto initialization feature can be disabled by component property "Auto initialization". */
+  (void)BitIoLdd3_Init(NULL);
+  /* ### LED "RED" init code ... */
+  RED_Init(); /* initialize LED driver */
+  /* ### BitIO_LDD "BitIoLdd4" component auto initialization. Auto initialization feature can be disabled by component property "Auto initialization". */
+  (void)BitIoLdd4_Init(NULL);
+  /* ### LED "GREEN" init code ... */
+  GREEN_Init(); /* initialize LED driver */
+  /* ### BitIO_LDD "BitIoLdd5" component auto initialization. Auto initialization feature can be disabled by component property "Auto initialization". */
+  (void)BitIoLdd5_Init(NULL);
+  /* ### LED "BLUE" init code ... */
+  BLUE_Init(); /* initialize LED driver */
 }
 #endif /* CPU_COMPONENTS_INIT */
 

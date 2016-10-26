@@ -1,6 +1,6 @@
-00:15:55 **** Incremental Build of configuration Debug for project K64F_HX711 ****
+01:56:25 **** Incremental Build of configuration Debug for project K64F_HX711 ****
 make all 
 make: Nothing to be done for 'all'.
 
-00:15:56 Build Finished (took 527ms)
+01:56:25 Build Finished (took 398ms)
 

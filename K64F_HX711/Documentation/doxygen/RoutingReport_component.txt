@@ -295,7 +295,7 @@
 			</tr>
 			<tr>
 				<td>47</td><td>PTE26/ENET_1588_CLKIN/UART4_CTS_b/RTC_CLKOUT/USB_CLKIN</td><td><small><i>same</i></small></td>
-				<td></td><td></td><td></td><td></td>
+				<td bgcolor='#F7DCFF'>PTE</td><td bgcolor='#F7DCFF'>port26</td><td bgcolor='#F7DCFF'>alt1</td><td bgcolor='#F7DCFF'>Output</td>
 			</tr>
 			<tr>
 				<td>48</td><td>PTE27/UART4_RTS_b</td><td><small><i>same</i></small></td>
@@ -517,11 +517,11 @@
 			</tr>
 			<tr>
 				<td>100</td><td>PTB21/SPI2_SCK/FB_AD30/CMP1_OUT</td><td><small><i>same</i></small></td>
-				<td></td><td></td><td></td><td></td>
+				<td bgcolor='#F7DCFF'>PTB</td><td bgcolor='#F7DCFF'>port21</td><td bgcolor='#F7DCFF'>alt1</td><td bgcolor='#F7DCFF'>Output</td>
 			</tr>
 			<tr>
 				<td>101</td><td>PTB22/SPI2_SOUT/FB_AD29/CMP2_OUT</td><td><small><i>same</i></small></td>
-				<td></td><td></td><td></td><td></td>
+				<td bgcolor='#F7DCFF'>PTB</td><td bgcolor='#F7DCFF'>port22</td><td bgcolor='#F7DCFF'>alt1</td><td bgcolor='#F7DCFF'>Output</td>
 			</tr>
 			<tr>
 				<td>102</td><td>PTB23/SPI2_SIN/SPI0_PCS5/FB_AD28</td><td><small><i>same</i></small></td>
@@ -2754,7 +2754,7 @@
 			</tr>
 			<tr>
 				<td>47</td><td>PTE26/ENET_1588_CLKIN/UART4_CTS_b/RTC_CLKOUT/USB_CLKIN</td><td><small><i>same</i></small></td>
-				<td></td><td></td><td></td><td></td>
+				<td bgcolor='#F7DCFF'>PTE</td><td bgcolor='#F7DCFF'>port26</td><td bgcolor='#F7DCFF'>alt1</td><td bgcolor='#F7DCFF'>Output</td>
 			</tr>
 			<tr>
 				<td>48</td><td>PTE27/UART4_RTS_b</td><td><small><i>same</i></small></td>
@@ -2976,11 +2976,11 @@
 			</tr>
 			<tr>
 				<td>100</td><td>PTB21/SPI2_SCK/FB_AD30/CMP1_OUT</td><td><small><i>same</i></small></td>
-				<td></td><td></td><td></td><td></td>
+				<td bgcolor='#F7DCFF'>PTB</td><td bgcolor='#F7DCFF'>port21</td><td bgcolor='#F7DCFF'>alt1</td><td bgcolor='#F7DCFF'>Output</td>
 			</tr>
 			<tr>
 				<td>101</td><td>PTB22/SPI2_SOUT/FB_AD29/CMP2_OUT</td><td><small><i>same</i></small></td>
-				<td></td><td></td><td></td><td></td>
+				<td bgcolor='#F7DCFF'>PTB</td><td bgcolor='#F7DCFF'>port22</td><td bgcolor='#F7DCFF'>alt1</td><td bgcolor='#F7DCFF'>Output</td>
 			</tr>
 			<tr>
 				<td>102</td><td>PTB23/SPI2_SIN/SPI0_PCS5/FB_AD28</td><td><small><i>same</i></small></td>

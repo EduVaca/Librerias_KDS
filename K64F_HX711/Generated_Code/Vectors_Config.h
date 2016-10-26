@@ -67,6 +67,15 @@
 #include "TU2.h"
 #include "KSDK1.h"
 #include "PushButton.h"
+#include "RED.h"
+#include "LEDpin1.h"
+#include "BitIoLdd3.h"
+#include "GREEN.h"
+#include "LEDpin2.h"
+#include "BitIoLdd4.h"
+#include "BLUE.h"
+#include "LEDpin3.h"
+#include "BitIoLdd5.h"
 #include "Events.h"
 
 #ifdef __cplusplus

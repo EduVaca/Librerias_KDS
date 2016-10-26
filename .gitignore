@@ -1,4 +1,4 @@
-.metadata/
+.metadata/*
 RemoteSystemsTempFiles/
 K64F_HX711/Debug
 K64F_HX711/Documentation

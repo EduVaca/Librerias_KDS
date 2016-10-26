@@ -6,7 +6,7 @@
 **     Version     : Component 01.046, Driver 01.00, CPU db: 3.00.000
 **     Repository  : Kinetis
 **     Compiler    : GNU C Compiler
-**     Date/Time   : 2016-10-25, 00:10, # CodeGen: 20
+**     Date/Time   : 2016-10-26, 01:49, # CodeGen: 22
 **
 **     Copyright : 1997 - 2015 Freescale Semiconductor, Inc. 
 **     All Rights Reserved.
@@ -73,6 +73,15 @@
 #include "TU2.h"
 #include "KSDK1.h"
 #include "PushButton.h"
+#include "RED.h"
+#include "LEDpin1.h"
+#include "BitIoLdd3.h"
+#include "GREEN.h"
+#include "LEDpin2.h"
+#include "BitIoLdd4.h"
+#include "BLUE.h"
+#include "LEDpin3.h"
+#include "BitIoLdd5.h"
 
 
 /*
