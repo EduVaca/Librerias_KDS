@@ -4,4 +4,4 @@ columnDescription=801
 componentFilter=2
 defaultProviderID=com.processorexpert.ui.selector.Alphabetical
 eclipse.preferences.version=1
-repositoryFilter=Kinetis
+repositoryFilter=All repositories

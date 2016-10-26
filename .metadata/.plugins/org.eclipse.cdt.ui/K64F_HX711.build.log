@@ -1,6 +1,155 @@
-20:42:46 **** Incremental Build of configuration Debug for project K64F_HX711 ****
+00:20:17 **** Incremental Build of configuration Debug for project K64F_HX711 ****
 make all 
-make: Nothing to be done for 'all'.
+Building file: ../Static_Code/System/CPU_Init.c
+Invoking: Cross ARM C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/System" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/PDD" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/IO_Map" -I"C:\Freescale\KDS_v3\eclipse\ProcessorExpert/lib/Kinetis/pdd/inc" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Sources" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Generated_Code" -std=c99 -MMD -MP -MF"Static_Code/System/CPU_Init.d" -MT"Static_Code/System/CPU_Init.o" -c -o "Static_Code/System/CPU_Init.o" "../Static_Code/System/CPU_Init.c"
+Finished building: ../Static_Code/System/CPU_Init.c
+ 
+Building file: ../Static_Code/System/Peripherals_Init.c
+Invoking: Cross ARM C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/System" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/PDD" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/IO_Map" -I"C:\Freescale\KDS_v3\eclipse\ProcessorExpert/lib/Kinetis/pdd/inc" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Sources" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Generated_Code" -std=c99 -MMD -MP -MF"Static_Code/System/Peripherals_Init.d" -MT"Static_Code/System/Peripherals_Init.o" -c -o "Static_Code/System/Peripherals_Init.o" "../Static_Code/System/Peripherals_Init.c"
+Finished building: ../Static_Code/System/Peripherals_Init.c
+ 
+Building file: ../Static_Code/System/Vectors.c
+Invoking: Cross ARM C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/System" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/PDD" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/IO_Map" -I"C:\Freescale\KDS_v3\eclipse\ProcessorExpert/lib/Kinetis/pdd/inc" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Sources" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Generated_Code" -std=c99 -MMD -MP -MF"Static_Code/System/Vectors.d" -MT"Static_Code/System/Vectors.o" -c -o "Static_Code/System/Vectors.o" "../Static_Code/System/Vectors.c"
+Finished building: ../Static_Code/System/Vectors.c
+ 
+Building file: ../Sources/Events.c
+Invoking: Cross ARM C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/System" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/PDD" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/IO_Map" -I"C:\Freescale\KDS_v3\eclipse\ProcessorExpert/lib/Kinetis/pdd/inc" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Sources" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Generated_Code" -std=c99 -MMD -MP -MF"Sources/Events.d" -MT"Sources/Events.o" -c -o "Sources/Events.o" "../Sources/Events.c"
+Finished building: ../Sources/Events.c
+ 
+Building file: ../Sources/HX711.c
+Invoking: Cross ARM C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/System" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/PDD" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/IO_Map" -I"C:\Freescale\KDS_v3\eclipse\ProcessorExpert/lib/Kinetis/pdd/inc" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Sources" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Generated_Code" -std=c99 -MMD -MP -MF"Sources/HX711.d" -MT"Sources/HX711.o" -c -o "Sources/HX711.o" "../Sources/HX711.c"
+Finished building: ../Sources/HX711.c
+ 
+Building file: ../Sources/MPX5700.c
+Invoking: Cross ARM C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/System" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/PDD" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/IO_Map" -I"C:\Freescale\KDS_v3\eclipse\ProcessorExpert/lib/Kinetis/pdd/inc" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Sources" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Generated_Code" -std=c99 -MMD -MP -MF"Sources/MPX5700.d" -MT"Sources/MPX5700.o" -c -o "Sources/MPX5700.o" "../Sources/MPX5700.c"
+Finished building: ../Sources/MPX5700.c
+ 
+Building file: ../Sources/Timer.c
+Invoking: Cross ARM C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/System" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/PDD" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/IO_Map" -I"C:\Freescale\KDS_v3\eclipse\ProcessorExpert/lib/Kinetis/pdd/inc" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Sources" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Generated_Code" -std=c99 -MMD -MP -MF"Sources/Timer.d" -MT"Sources/Timer.o" -c -o "Sources/Timer.o" "../Sources/Timer.c"
+Finished building: ../Sources/Timer.c
+ 
+Building file: ../Sources/Ultrasonic.c
+Invoking: Cross ARM C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/System" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/PDD" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/IO_Map" -I"C:\Freescale\KDS_v3\eclipse\ProcessorExpert/lib/Kinetis/pdd/inc" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Sources" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Generated_Code" -std=c99 -MMD -MP -MF"Sources/Ultrasonic.d" -MT"Sources/Ultrasonic.o" -c -o "Sources/Ultrasonic.o" "../Sources/Ultrasonic.c"
+Finished building: ../Sources/Ultrasonic.c
+ 
+Building file: ../Sources/main.c
+Invoking: Cross ARM C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/System" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/PDD" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/IO_Map" -I"C:\Freescale\KDS_v3\eclipse\ProcessorExpert/lib/Kinetis/pdd/inc" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Sources" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Generated_Code" -std=c99 -MMD -MP -MF"Sources/main.d" -MT"Sources/main.o" -c -o "Sources/main.o" "../Sources/main.c"
+Finished building: ../Sources/main.c
+ 
+Building file: ../Generated_Code/AD1.c
+Invoking: Cross ARM C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/System" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/PDD" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/IO_Map" -I"C:\Freescale\KDS_v3\eclipse\ProcessorExpert/lib/Kinetis/pdd/inc" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Sources" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/AD1.d" -MT"Generated_Code/AD1.o" -c -o "Generated_Code/AD1.o" "../Generated_Code/AD1.c"
+Finished building: ../Generated_Code/AD1.c
+ 
+Building file: ../Generated_Code/ASerialLdd1.c
+Invoking: Cross ARM C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/System" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/PDD" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/IO_Map" -I"C:\Freescale\KDS_v3\eclipse\ProcessorExpert/lib/Kinetis/pdd/inc" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Sources" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/ASerialLdd1.d" -MT"Generated_Code/ASerialLdd1.o" -c -o "Generated_Code/ASerialLdd1.o" "../Generated_Code/ASerialLdd1.c"
+Finished building: ../Generated_Code/ASerialLdd1.c
+ 
+Building file: ../Generated_Code/AdcLdd1.c
+Invoking: Cross ARM C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/System" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/PDD" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/IO_Map" -I"C:\Freescale\KDS_v3\eclipse\ProcessorExpert/lib/Kinetis/pdd/inc" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Sources" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/AdcLdd1.d" -MT"Generated_Code/AdcLdd1.o" -c -o "Generated_Code/AdcLdd1.o" "../Generated_Code/AdcLdd1.c"
+Finished building: ../Generated_Code/AdcLdd1.c
+ 
+Building file: ../Generated_Code/BitIoLdd1.c
+Invoking: Cross ARM C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/System" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/PDD" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/IO_Map" -I"C:\Freescale\KDS_v3\eclipse\ProcessorExpert/lib/Kinetis/pdd/inc" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Sources" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/BitIoLdd1.d" -MT"Generated_Code/BitIoLdd1.o" -c -o "Generated_Code/BitIoLdd1.o" "../Generated_Code/BitIoLdd1.c"
+Finished building: ../Generated_Code/BitIoLdd1.c
+ 
+Building file: ../Generated_Code/BitIoLdd2.c
+Invoking: Cross ARM C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/System" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/PDD" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/IO_Map" -I"C:\Freescale\KDS_v3\eclipse\ProcessorExpert/lib/Kinetis/pdd/inc" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Sources" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/BitIoLdd2.d" -MT"Generated_Code/BitIoLdd2.o" -c -o "Generated_Code/BitIoLdd2.o" "../Generated_Code/BitIoLdd2.c"
+Finished building: ../Generated_Code/BitIoLdd2.c
+ 
+Building file: ../Generated_Code/Cpu.c
+Invoking: Cross ARM C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/System" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/PDD" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/IO_Map" -I"C:\Freescale\KDS_v3\eclipse\ProcessorExpert/lib/Kinetis/pdd/inc" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Sources" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/Cpu.d" -MT"Generated_Code/Cpu.o" -c -o "Generated_Code/Cpu.o" "../Generated_Code/Cpu.c"
+Finished building: ../Generated_Code/Cpu.c
+ 
+Building file: ../Generated_Code/DOUT.c
+Invoking: Cross ARM C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/System" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/PDD" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/IO_Map" -I"C:\Freescale\KDS_v3\eclipse\ProcessorExpert/lib/Kinetis/pdd/inc" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Sources" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/DOUT.d" -MT"Generated_Code/DOUT.o" -c -o "Generated_Code/DOUT.o" "../Generated_Code/DOUT.c"
+Finished building: ../Generated_Code/DOUT.c
+ 
+Building file: ../Generated_Code/Inhr1.c
+Invoking: Cross ARM C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/System" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/PDD" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/IO_Map" -I"C:\Freescale\KDS_v3\eclipse\ProcessorExpert/lib/Kinetis/pdd/inc" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Sources" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/Inhr1.d" -MT"Generated_Code/Inhr1.o" -c -o "Generated_Code/Inhr1.o" "../Generated_Code/Inhr1.c"
+Finished building: ../Generated_Code/Inhr1.c
+ 
+Building file: ../Generated_Code/KSDK1.c
+Invoking: Cross ARM C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/System" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/PDD" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/IO_Map" -I"C:\Freescale\KDS_v3\eclipse\ProcessorExpert/lib/Kinetis/pdd/inc" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Sources" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/KSDK1.d" -MT"Generated_Code/KSDK1.o" -c -o "Generated_Code/KSDK1.o" "../Generated_Code/KSDK1.c"
+Finished building: ../Generated_Code/KSDK1.c
+ 
+Building file: ../Generated_Code/PD_SCK.c
+Invoking: Cross ARM C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/System" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/PDD" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/IO_Map" -I"C:\Freescale\KDS_v3\eclipse\ProcessorExpert/lib/Kinetis/pdd/inc" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Sources" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/PD_SCK.d" -MT"Generated_Code/PD_SCK.o" -c -o "Generated_Code/PD_SCK.o" "../Generated_Code/PD_SCK.c"
+Finished building: ../Generated_Code/PD_SCK.c
+ 
+Building file: ../Generated_Code/PE_LDD.c
+Invoking: Cross ARM C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/System" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/PDD" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/IO_Map" -I"C:\Freescale\KDS_v3\eclipse\ProcessorExpert/lib/Kinetis/pdd/inc" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Sources" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/PE_LDD.d" -MT"Generated_Code/PE_LDD.o" -c -o "Generated_Code/PE_LDD.o" "../Generated_Code/PE_LDD.c"
+Finished building: ../Generated_Code/PE_LDD.c
+ 
+Building file: ../Generated_Code/Pins1.c
+Invoking: Cross ARM C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/System" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/PDD" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/IO_Map" -I"C:\Freescale\KDS_v3\eclipse\ProcessorExpert/lib/Kinetis/pdd/inc" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Sources" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/Pins1.d" -MT"Generated_Code/Pins1.o" -c -o "Generated_Code/Pins1.o" "../Generated_Code/Pins1.c"
+Finished building: ../Generated_Code/Pins1.c
+ 
+Building file: ../Generated_Code/PushButton.c
+Invoking: Cross ARM C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/System" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/PDD" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/IO_Map" -I"C:\Freescale\KDS_v3\eclipse\ProcessorExpert/lib/Kinetis/pdd/inc" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Sources" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/PushButton.d" -MT"Generated_Code/PushButton.o" -c -o "Generated_Code/PushButton.o" "../Generated_Code/PushButton.c"
+Finished building: ../Generated_Code/PushButton.c
+ 
+Building file: ../Generated_Code/TI1.c
+Invoking: Cross ARM C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/System" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/PDD" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/IO_Map" -I"C:\Freescale\KDS_v3\eclipse\ProcessorExpert/lib/Kinetis/pdd/inc" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Sources" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/TI1.d" -MT"Generated_Code/TI1.o" -c -o "Generated_Code/TI1.o" "../Generated_Code/TI1.c"
+Finished building: ../Generated_Code/TI1.c
+ 
+Building file: ../Generated_Code/TRIG.c
+Invoking: Cross ARM C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/System" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/PDD" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/IO_Map" -I"C:\Freescale\KDS_v3\eclipse\ProcessorExpert/lib/Kinetis/pdd/inc" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Sources" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/TRIG.d" -MT"Generated_Code/TRIG.o" -c -o "Generated_Code/TRIG.o" "../Generated_Code/TRIG.c"
+Finished building: ../Generated_Code/TRIG.c
+ 
+Building file: ../Generated_Code/TU1.c
+Invoking: Cross ARM C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/System" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/PDD" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/IO_Map" -I"C:\Freescale\KDS_v3\eclipse\ProcessorExpert/lib/Kinetis/pdd/inc" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Sources" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/TU1.d" -MT"Generated_Code/TU1.o" -c -o "Generated_Code/TU1.o" "../Generated_Code/TU1.c"
+Finished building: ../Generated_Code/TU1.c
+ 
+Building file: ../Generated_Code/TU2.c
+Invoking: Cross ARM C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/System" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/PDD" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/IO_Map" -I"C:\Freescale\KDS_v3\eclipse\ProcessorExpert/lib/Kinetis/pdd/inc" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Sources" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/TU2.d" -MT"Generated_Code/TU2.o" -c -o "Generated_Code/TU2.o" "../Generated_Code/TU2.c"
+Finished building: ../Generated_Code/TU2.c
+ 
+Building file: ../Generated_Code/Term1.c
+Invoking: Cross ARM C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/System" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/PDD" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/IO_Map" -I"C:\Freescale\KDS_v3\eclipse\ProcessorExpert/lib/Kinetis/pdd/inc" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Sources" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/Term1.d" -MT"Generated_Code/Term1.o" -c -o "Generated_Code/Term1.o" "../Generated_Code/Term1.c"
+Finished building: ../Generated_Code/Term1.c
+ 
+Building file: ../Generated_Code/TimerIntLdd1.c
+Invoking: Cross ARM C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/System" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/PDD" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/IO_Map" -I"C:\Freescale\KDS_v3\eclipse\ProcessorExpert/lib/Kinetis/pdd/inc" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Sources" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/TimerIntLdd1.d" -MT"Generated_Code/TimerIntLdd1.o" -c -o "Generated_Code/TimerIntLdd1.o" "../Generated_Code/TimerIntLdd1.c"
+Finished building: ../Generated_Code/TimerIntLdd1.c
+ 
+Building file: ../Generated_Code/WAIT1.c
+Invoking: Cross ARM C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/System" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/PDD" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Static_Code/IO_Map" -I"C:\Freescale\KDS_v3\eclipse\ProcessorExpert/lib/Kinetis/pdd/inc" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Sources" -I"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Generated_Code" -std=c99 -MMD -MP -MF"Generated_Code/WAIT1.d" -MT"Generated_Code/WAIT1.o" -c -o "Generated_Code/WAIT1.o" "../Generated_Code/WAIT1.c"
+Finished building: ../Generated_Code/WAIT1.c
+ 
+Building target: K64F_HX711.elf
+Invoking: Cross ARM C++ Linker
+arm-none-eabi-g++ -mcpu=cortex-m4 -mthumb -mfloat-abi=hard -mfpu=fpv4-sp-d16 -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -T "C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Project_Settings/Linker_Files/ProcessorExpert.ld" -Xlinker --gc-sections -L"C:/WorkSpaceGeneral/WorkSpaceKds/Librerias_KDS/K64F_HX711/Project_Settings/Linker_Files" -Wl,-Map,"K64F_HX711.map" -specs=nano.specs -specs=nosys.specs -o "K64F_HX711.elf"  ./Static_Code/System/CPU_Init.o ./Static_Code/System/Peripherals_Init.o ./Static_Code/System/Vectors.o  ./Sources/Events.o ./Sources/HX711.o ./Sources/MPX5700.o ./Sources/Menus.o ./Sources/Sistema.o ./Sources/Timer.o ./Sources/Ultrasonic.o ./Sources/main.o  ./Project_Settings/Startup_Code/startup.o  ./Generated_Code/AD1.o ./Generated_Code/ASerialLdd1.o ./Generated_Code/AdcLdd1.o ./Generated_Code/BitIoLdd1.o ./Generated_Code/BitIoLdd2.o ./Generated_Code/Cpu.o ./Generated_Code/DOUT.o ./Generated_Code/Inhr1.o ./Generated_Code/KSDK1.o ./Generated_Code/PD_SCK.o ./Generated_Code/PE_LDD.o ./Generated_Code/Pins1.o ./Generated_Code/PushButton.o ./Generated_Code/TI1.o ./Generated_Code/TRIG.o ./Generated_Code/TU1.o ./Generated_Code/TU2.o ./Generated_Code/Term1.o ./Generated_Code/TimerIntLdd1.o ./Generated_Code/WAIT1.o   
+Finished building target: K64F_HX711.elf
+ 
 
-20:42:46 Build Finished (took 306ms)
+00:20:29 Build Finished (took 12s.22ms)
 
