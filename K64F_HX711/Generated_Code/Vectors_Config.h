@@ -65,6 +65,8 @@
 #include "TRIG.h"
 #include "WAIT1.h"
 #include "TU2.h"
+#include "KSDK1.h"
+#include "PushButton.h"
 #include "Events.h"
 
 #ifdef __cplusplus

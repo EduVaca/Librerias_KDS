@@ -8,7 +8,7 @@
 **     Repository  : Kinetis
 **     Datasheet   : K64P144M120SF5RM, Rev.2, January 2014
 **     Compiler    : GNU C Compiler
-**     Date/Time   : 2016-10-09, 18:01, # CodeGen: 8
+**     Date/Time   : 2016-10-25, 00:10, # CodeGen: 20
 **     Abstract    :
 **
 **     Settings    :
@@ -118,6 +118,10 @@ void Components_Init(void)
   /* ### TimerInt_LDD "TimerIntLdd1" component auto initialization. Auto initialization feature can be disabled by component property "Auto initialization". */
   (void)TimerIntLdd1_Init(NULL);
   /* ### TimerInt "TI1" init code ... */
+  /* ### KinetisSDK "KSDK1" init code ... */
+  /* Write code here ... */
+  /* ### BitIO_LDD "PushButton" component auto initialization. Auto initialization feature can be disabled by component property "Auto initialization". */
+  (void)PushButton_Init(NULL);
 }
 #endif /* CPU_COMPONENTS_INIT */
 

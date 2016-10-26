@@ -84,9 +84,10 @@ Module "TRIG"      (component BitIO_LDD)
                 direction = _[output]_ or _[input/output]_.
 
 Module "WAIT1"     (component Wait)
-   - WAIT1_Wait10Cycles -Wait for approximately 10 CPU cycles.
+   - WAIT1_Wait10Cycles -Wait for 10 CPU cycles.
    - WAIT1_Wait100Cycles -Wait for 100 CPU cycles.
-   - WAIT1_WaitCycles -Wait for 100 CPU cycles.
+   - WAIT1_WaitCycles -Wait for a specified number of CPU cycles (16bit data type).
+   - WAIT1_WaitLongCycles -Wait for a specified number of CPU cycles (32bit data type).
    - WAIT1_Waitms -Wait for a specified time in milliseconds.
    - WAIT1_Waitus -Wait for a specified time in microseconds.
    - WAIT1_Waitns -Wait for a specified time in nano seconds.
@@ -104,6 +105,17 @@ Module "TU2"       (component TimerUnit_LDD)
                 counter.
    - TU2_GetCaptureValue -Returns the content of capture register specified by the parameter ChannelIdx. This method is 
                 available when at least one channel is configured.
+
+Module "KSDK1"     (component KinetisSDK)
+
+Module "PushButton" (component BitIO_LDD)
+   - PushButton_Init -Initializes the device. Allocates memory for the device data structure, allocates interrupt vectors and 
+                sets interrupt priority, sets pin routing, sets timing, etc. If the "Enable in init. code" is set to "yes" 
+                value then the device is also enabled(see the description of the Enable() method). In this case the Enable() 
+                method is not necessary and needn't to be generated.
+   - PushButton_GetVal -Returns the input/output value. If the direction is [input] then the input value of the pin is read and 
+                returned. If the direction is [output] then the last written value is read and returned (see <Safe mode> 
+                property for limitations). This method cannot be disabled if direction is [input].
 
 Module "Cpu"       (component MK64FN1M0LQ12)
 

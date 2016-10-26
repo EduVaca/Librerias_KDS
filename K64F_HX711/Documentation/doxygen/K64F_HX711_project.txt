@@ -34,6 +34,7 @@
 - \subpage TimerIntLdd1
 - \subpage TRIG
 - \subpage TU2
+- \subpage PushButton
 
 */
 
@@ -74,6 +75,7 @@
 - \subpage TimerIntLdd1
 - \subpage TRIG
 - \subpage TU2
+- \subpage PushButton
 
 */
 

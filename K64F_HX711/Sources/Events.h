@@ -49,6 +49,8 @@
 #include "TRIG.h"
 #include "WAIT1.h"
 #include "TU2.h"
+#include "KSDK1.h"
+#include "PushButton.h"
 
 #ifdef __cplusplus
 extern "C" {
